@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><span style="font-size: 32px;margin: 21px 0;display: block;">Avijit Project</span></h1>
+    <ul>
+        <li>Html</li>
+        <li>CSS</li>
+        <li>Java</li>
+    </ul>
+    <p> I am Avijit Das</p>
+    <dl>
+        <dt>Who am I</dt>
+        <dd> I am avijit das who is learing</dd>
+        <dt>What am I</dt>
+        <dd> I am a Digital Marketer</dd>
+        <dt>Where am I</dt>
+        <dd> I am currently in kolkata</dd>
+    </dl>
+    
+</body>
+</html>
